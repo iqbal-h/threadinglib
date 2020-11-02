@@ -1,1 +1,1 @@
-# threadinglib
+# A user level threading library
